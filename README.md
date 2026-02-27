@@ -94,16 +94,6 @@ Advanced Java project applying object-oriented design principles.
 ### Telematica  
 Network simulations and routing scenarios using GNS3.
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelBth&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelBth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
----
 
 ## Education
 
