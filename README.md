@@ -1,121 +1,109 @@
-<h1 align="center">Juan Manuel Betancourth García</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Electronic Engineer | IoT Systems Architect | Cloud & Backend Engineer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Juan%20Manuel%20Betancourth%20García&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Electronic%20Engineer%20·%20IoT%20Architect%20·%20Backend%20%26%20Cloud%20Engineer&descAlignY=58&descSize=16&descColor=d8b4fe" width="100%"/>
 
-<p align="center">
-Designing distributed IoT systems from edge devices to cloud-based SaaS platforms.
-</p>
+[![Email](https://img.shields.io/badge/jmanuelbth%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuelbth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-betancourth-garc%C3%ADa-a47739391/)
+[![IEEE](https://img.shields.io/badge/IEEE%20Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
 
-<p align="center">
-  <a href="mailto:jmanuelbth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/juan-manuel-betancourth-garc%C3%ADa-a47739391/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## Professional Summary
+## About Me
 
-Electronic Engineer specialized in designing and implementing end-to-end IoT architectures, integrating embedded systems, cloud-based backend services, and modern web applications.
+Electronic Engineer specializing in **end-to-end IoT system design** — from bare-metal firmware on constrained microcontrollers to cloud-hosted, production-ready SaaS platforms.
 
-I build distributed systems starting from edge-level firmware (ESP32 + FreeRTOS), designing structured MQTT/JSON communication layers, implementing scalable REST APIs with Spring Boot, modeling relational databases with PostgreSQL, and deploying SaaS solutions in cloud environments such as Railway.
+I take full ownership of the stack: hardware communication protocols, structured telemetry pipelines, REST API design, relational modeling, and cloud deployment. My focus is on building systems that are **reliable, observable, and scalable** — with applied research experience in agricultural and aquacultural monitoring environments.
 
-Currently expanding expertise in cloud services architecture, scalable backend systems, and distributed infrastructure, with professional certifications in progress.
-
----
-
-## Architecture Focus
-
-I design complete IoT systems with a systems-engineering approach:
-
-- Multi-core task management on ESP32 (FreeRTOS concurrency)
-- Structured JSON payload modeling for reliable MQTT communication
-- Scalable REST APIs with Spring Boot
-- Relational data modeling with PostgreSQL
-- Angular real-time dashboards
-- SaaS deployment in cloud environments (Railway)
-
-From firmware optimization to cloud deployment strategy.
+Currently advancing expertise in cloud infrastructure and backend architecture, with professional certifications in active progress.
 
 ---
 
-## Core Technologies
+## Technical Stack
 
 ### Embedded & Edge
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DB600?style=for-the-badge&logo=freertos&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![ATmega](https://img.shields.io/badge/ATmega-EE0000?style=flat-square&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DB600?style=flat-square&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### Backend & Cloud
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+### Communication Protocols
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-7C3AED?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-5B21B6?style=flat-square&logoColor=white)
+![UART](https://img.shields.io/badge/UART-4C1D95?style=flat-square&logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-6D28D9?style=flat-square&logoColor=white)
+
+### IDEs & Toolchains
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-EE0000?style=flat-square&logoColor=white)
+
+### Backend & Data
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### Cloud & Deployment
+![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-## Featured Engineering Work
+## Featured Project — IoT Distributed Monitoring Platform
 
-### IoT Distributed Monitoring Platform (Flagship Project)
+> A complete end-to-end system engineered for agricultural and aquacultural environments.
 
-Architected and implemented a complete end-to-end IoT system integrating:
+| Layer | Technology | Details |
+|---|---|---|
+| **Edge** | ESP32 + ATmega + FreeRTOS | Multi-core task management, sensor acquisition |
+| **Protocols** | I2C · SPI · UART · RS485 · MQTT | Structured JSON telemetry over reliable transport |
+| **Backend** | Spring Boot + PostgreSQL | Data ingestion, REST API, clean architecture |
+| **Frontend** | Angular + TypeScript | Real-time dashboard, monitoring & analytics |
+| **Cloud** | Railway (SaaS) | Production deployment & infrastructure |
 
-- ESP32 multi-core firmware (FreeRTOS-based task management)
-- Structured MQTT communication using optimized JSON payloads
-- Spring Boot REST API for device ingestion and data processing
-- PostgreSQL relational data modeling
-- Angular real-time dashboard for monitoring and analytics
-- Cloud deployment as a SaaS solution using Railway
-
-This project demonstrates my ability to design distributed architectures from edge computing to cloud infrastructure, ensuring reliable communication, data consistency, and scalable backend services.
-
----
-
-### Cloud-Based IoT Backend Architecture
-
-Designed a backend system capable of receiving structured telemetry data from distributed edge nodes, processing data streams, and exposing scalable REST endpoints with clean architecture principles.
+This project demonstrates end-to-end **systems-level thinking**: each layer is designed with clean interfaces, data consistency is guaranteed across the pipeline, and the whole solution runs in a production cloud environment.
 
 ---
 
-### Real-Time IoT Dashboard Application
+##  IEEE Publications
 
-Developed an Angular-based monitoring interface for visualization and analytics of IoT telemetry data connected to cloud-hosted backend services.
+### [Low-Cost IoT-Based Monitoring System for Hydroponic Crops](https://ieeexplore.ieee.org/document/11276151)
+*IEEE Xplore · 2025*
+
+> It's a low-cost IoT-based real-time monitoring system for hydroponic crops. Using an ESP32 and specialized sensors, it measures key physicochemical variables such as pH, electrical conductivity, temperature, humidity, and NPK levels, enabling remote supervision through a web platform. Its portable and scalable design reduces costs and supports multiple crops with a single device. The system enhances agricultural efficiency and sustainability by optimizing water and fertilizer use, promoting hydroponics as an accessible and environmentally friendly alternative.
 
 ---
 
-## Research & Engineering
+### [Design and Implementation of Sensor Modules and Gateway System Using ESP32 for RAS Pond Monitoring](https://ieeexplore.ieee.org/document/11276160)
+*IEEE Xplore · 2025*
 
-Experience in applied research projects presented at international conferences and currently under IEEE publication process, focused on IoT-based monitoring systems and distributed architectures.
+>This paper presents the design and implementation of a fixed hardware-based monitoring system for Recirculating Aquaculture Systems (RAS), focused on edge data acquisition and MQTT transmission. Distributed sensor nodes built on ATmega328P microcontrollers measure dissolved oxygen, pH, temperature, humidity, nitrates, and turbidity, and communicate via Zigbee (XBee S2) with a central ESP32 coordinator running FreeRTOS. Data are sampled at configurable intervals, formatted as JSON, and sent to a remote server through MQTT. The system emphasizes reliable Zigbee mesh connectivity, real-time task scheduling, and “last will” messages for fault detection. By isolating the hardware and communication layers, it establishes a scalable and low-cost foundation for RAS monitoring.
 
 ---
 
 ## Education & Certifications
 
-2018 - 07 | Systems and communications technician - Cecontec
-
-2026 - 08 | Electronic Engineering — Universidad del Quindío (In progress)  
-
-2026 - 03 | Java Junior Developer — Dev Senior & Certiprof
-
-2026 - 06 | Java Backend Developer — Dev Senior & Certiprof (In progress)
-
-2026 - 09 | Java Full Stack Developer — Dev Senior & Certiprof (In progress)
-
-2026 - 12 | Java Senior Developer — Dev Senior & Certiprof (In progress)
-  
+| Year | Credential | Institution |
+|---|---|---|
+| 2018 | Systems & Communications Technician | Cecontec |
+| 2026 *(in progress)* | B.Eng. Electronic Engineering | Universidad del Quindío |
+| 2026 Mar | Java Junior Developer | Dev Senior & Certiprof |
+| 2026 Jun *(in progress)* | Java Backend Developer | Dev Senior & Certiprof |
+| 2026 Sep *(in progress)* | Java Full Stack Developer | Dev Senior & Certiprof |
+| 2026 Dec *(in progress)* | Java Senior Developer | Dev Senior & Certiprof |
 
 ---
 
-<p align="center">
-  <strong>Open to international opportunities in IoT Systems, Cloud Architecture and Backend Engineering.</strong>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+
+*Open to international opportunities in IoT Systems, Cloud Architecture, and Backend Engineering.*
+
+</div>
