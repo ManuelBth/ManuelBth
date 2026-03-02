@@ -1,109 +1,121 @@
 <h1 align="center">Juan Manuel Betancourth García</h1>
 
 <p align="center">
-  <em>Electronic Engineering Student · Embedded Systems · IoT · Full-Stack Development</em><br/>
-  Universidad del Quindío
+  <strong>Electronic Engineer | IoT Systems Architect | Cloud & Backend Engineer</strong>
+</p>
+
+<p align="center">
+Designing distributed IoT systems from edge devices to cloud-based SaaS platforms.
 </p>
 
 <p align="center">
   <a href="mailto:jmanuelbth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ManuelBth">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/juan-manuel-betancourth-garc%C3%ADa-a47739391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## Profile
+## Professional Summary
 
-Electronic Engineering student specialized in **Embedded Systems, IoT architectures and Full-Stack development**, with experience in designing end-to-end technological solutions integrating hardware, firmware, backend services and modern web interfaces.
+Electronic Engineer specialized in designing and implementing end-to-end IoT architectures, integrating embedded systems, cloud-based backend services, and modern web applications.
 
-Research experience in the GIDET Research Group (Universidad del Quindío), with projects presented at international conferences and currently in IEEE publication process.
+I build distributed systems starting from edge-level firmware (ESP32 + FreeRTOS), designing structured MQTT/JSON communication layers, implementing scalable REST APIs with Spring Boot, modeling relational databases with PostgreSQL, and deploying SaaS solutions in cloud environments such as Railway.
 
-My focus areas include:
-
-- Embedded intelligence and RTOS-based systems  
-- IoT architectures and distributed systems  
-- Backend development with scalable APIs  
-- Cloud deployment and infrastructure  
-- Applied research and product-oriented engineering  
+Currently expanding expertise in cloud services architecture, scalable backend systems, and distributed infrastructure, with professional certifications in progress.
 
 ---
 
-## Technical Stack
+## Architecture Focus
 
-### Embedded Systems & Hardware
+I design complete IoT systems with a systems-engineering approach:
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- Multi-core task management on ESP32 (FreeRTOS concurrency)
+- Structured JSON payload modeling for reliable MQTT communication
+- Scalable REST APIs with Spring Boot
+- Relational data modeling with PostgreSQL
+- Angular real-time dashboards
+- SaaS deployment in cloud environments (Railway)
+
+From firmware optimization to cloud deployment strategy.
+
+---
+
+## Core Technologies
+
+### Embedded & Edge
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DB600?style=for-the-badge&logo=freertos&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
-
----
 
 ### Backend & Cloud
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
 
 ### Frontend
-
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-### Networking & Infrastructure
+## Featured Engineering Work
 
-![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge&logo=gns3&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### IoT Distributed Monitoring Platform (Flagship Project)
+
+Architected and implemented a complete end-to-end IoT system integrating:
+
+- ESP32 multi-core firmware (FreeRTOS-based task management)
+- Structured MQTT communication using optimized JSON payloads
+- Spring Boot REST API for device ingestion and data processing
+- PostgreSQL relational data modeling
+- Angular real-time dashboard for monitoring and analytics
+- Cloud deployment as a SaaS solution using Railway
+
+This project demonstrates my ability to design distributed architectures from edge computing to cloud infrastructure, ensuring reliable communication, data consistency, and scalable backend services.
 
 ---
 
-## Key Projects
+### Cloud-Based IoT Backend Architecture
 
-### gestor-de-cursos  
-Academic management platform developed with backend architecture and structured database design, applying clean code principles and modular development.
+Designed a backend system capable of receiving structured telemetry data from distributed edge nodes, processing data streams, and exposing scalable REST endpoints with clean architecture principles.
 
-### backend-dashboard  
-Spring Boot backend for IoT agricultural monitoring systems.
+---
 
-### frontend-dashboard  
-Angular frontend for real-time visualization dashboards.
+### Real-Time IoT Dashboard Application
 
-### mini-spotify  
-Advanced Java project applying object-oriented design principles.
+Developed an Angular-based monitoring interface for visualization and analytics of IoT telemetry data connected to cloud-hosted backend services.
 
-### Telematica  
-Network simulations and routing scenarios using GNS3.
+---
 
+## Research & Engineering
 
-## Education
+Experience in applied research projects presented at international conferences and currently under IEEE publication process, focused on IoT-based monitoring systems and distributed architectures.
 
-Electronic Engineering — Universidad del Quindío (In Progress)  
-Java Senior AI Developer — DevSenior (In Progress)  
-Systems and Communications Technician — CECONTEC  
+---
+
+## Education & Certifications
+
+2018 - 07 | Systems and communications technician - Cecontec
+
+2026 - 08 | Electronic Engineering — Universidad del Quindío (In progress)  
+
+2026 - 03 | Java Junior Developer — Dev Senior & Certiprof
+
+2026 - 06 | Java Backend Developer — Dev Senior & Certiprof (In progress)
+
+2026 - 09 | Java Full Stack Developer — Dev Senior & Certiprof (In progress)
+
+2026 - 12 | Java Senior Developer — Dev Senior & Certiprof (In progress)
+  
 
 ---
 
 <p align="center">
-  Professional contact:<br/>
-  <strong>jmanuelbth@gmail.com</strong>
+  <strong>Open to international opportunities in IoT Systems, Cloud Architecture and Backend Engineering.</strong>
 </p>
