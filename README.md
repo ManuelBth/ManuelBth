@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Juan%20Manuel%20Betancourth%20García&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Electronic%20Engineer%20·%20IoT%20Architect%20·%20Backend%20%26%20Cloud%20Engineer&descAlignY=58&descSize=16&descColor=d8b4fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Juan%20Manuel%20Betancourth%20García&fontSize=32&fontColor=ffffff" width="100%"/>
 
 [![Email](https://img.shields.io/badge/jmanuelbth%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuelbth@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-betancourth-garc%C3%ADa-a47739391/)
