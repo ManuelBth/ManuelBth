@@ -55,22 +55,6 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 
 ---
 
-## Featured Project — IoT Distributed Monitoring Platform
-
-> A complete end-to-end system engineered for agricultural and aquacultural environments.
-
-| Layer | Technology | Details |
-|---|---|---|
-| **Edge** | ESP32 + ATmega + FreeRTOS | Multi-core task management, sensor acquisition |
-| **Protocols** | I2C · SPI · UART · RS485 · MQTT | Structured JSON telemetry over reliable transport |
-| **Backend** | Spring Boot + PostgreSQL | Data ingestion, REST API, clean architecture |
-| **Frontend** | Angular + TypeScript | Real-time dashboard, monitoring & analytics |
-| **Cloud** | Railway (SaaS) | Production deployment & infrastructure |
-
-This project demonstrates end-to-end **systems-level thinking**: each layer is designed with clean interfaces, data consistency is guaranteed across the pipeline, and the whole solution runs in a production cloud environment.
-
----
-
 ##  IEEE Publications
 
 ### [Low-Cost IoT-Based Monitoring System for Hydroponic Crops](https://ieeexplore.ieee.org/document/11276151)
