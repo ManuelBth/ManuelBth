@@ -76,8 +76,8 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 
 ## GitHub Stats
 
-| Languages | Streak |
-|:---:|:---:|
+|                                                   Languages                                                   |                                                 Streak                                                  |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 | ![Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160) | ![Streak](https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=160) |
 
 ---
@@ -102,21 +102,11 @@ _IEEE Xplore · 2025_
 
 ## Education & Certifications
 
-| Year | Credential | Institution |
-| --- | --- | --- |
-| 2018 | Systems & Communications Technician | Cecontec |
-| 2026 *(in progress)* | B.Eng. Electronic Engineering | Universidad del Quindío |
-| 2026 Mar | Java Junior Developer | Dev Senior & Certiprof |
-| 2026 Jun *(in progress)* | Java Backend Developer | Dev Senior & Certiprof |
-| 2026 Sep *(in progress)* | Java Full Stack Developer | Dev Senior & Certiprof |
-| 2026 Dec *(in progress)* | Java Senior Developer | Dev Senior & Certiprof |
+![Education Table](https://api.quickchart.io/v1/table?data=%7B%22title%22%3A%22Education%20%26%20Certifications%22%2C%22columns%22%3A%5B%7B%22title%22%3A%22Year%22%2C%22dataIndex%22%3A%22year%22%2C%22width%22%3A120%7D%2C%7B%22title%22%3A%22Credential%22%2C%22dataIndex%22%3A%22credential%22%2C%22width%22%3A250%7D%2C%7B%22title%22%3A%22Institution%22%2C%22dataIndex%22%3A%22institution%22%2C%22width%22%3A200%7D%5D%2C%22dataSource%22%3A%5B%7B%22year%22%3A%222018%22%2C%22credential%22%3A%22Systems%20%26%20Communications%20Technician%22%2C%22institution%22%3A%22Cecontec%22%7D%2C%7B%22year%22%3A%222026%20(in%20progress)%22%2C%22credential%22%3A%22B.Eng.%20Electronic%20Engineering%22%2C%22institution%22%3A%22Universidad%20del%20Quind%C3%ADo%22%7D%2C%7B%22year%22%3A%222026%20Mar%22%2C%22credential%22%3A%22Java%20Junior%20Developer%22%2C%22institution%22%3A%22Dev%20Senior%20%26%20Certiprof%22%7D%2C%7B%22year%22%3A%222026%20Jun%20(in%20progress)%22%2C%22credential%22%3A%22Java%20Backend%20Developer%22%2C%22institution%22%3A%22Dev%20Senior%20%26%20Certiprof%22%7D%2C%7B%22year%22%3A%222026%20Sep%20(in%20progress)%22%2C%22credential%22%3A%22Java%20Full%20Stack%20Developer%22%2C%22institution%22%3A%22Dev%20Senior%20%26%20Certiprof%22%7D%2C%7B%22year%22%3A%222026%20Dec%20(in%20progress)%22%2C%22credential%22%3A%22Java%20Senior%20Developer%22%2C%22institution%22%3A%22Dev%20Senior%20%26%20Certiprof%22%7D%5D%7D%7D&options=%7B%22fontSize%22%3A14%2C%22fontFamily%22%3A%22Arial%22%2C%22headerBackgroundColor%22%3A%22%237C3AED%22%2C%22headerColor%22%3A%22%23FFFFFF%22%2C%22backgroundColor%22%3A%22%231e1e1e%22%2C%22rowBackgroundColor%22%3A%22%232d2d2d%22%2C%22color%22%3A%22%23e0e0e0%22%2C%22borderColor%22%3A%22%23333%22%2C%22paddingVertical%22%3A12%2C%22paddingHorizontal%22%3A10%7D)
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
-
-_Open to international opportunities in IoT Systems, Cloud Architecture, and Backend Engineering._
-
 </div>
