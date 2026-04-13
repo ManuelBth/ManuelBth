@@ -76,9 +76,17 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 
 ## GitHub Stats
 
-[![Total Commits](https://github-readme-stats.vercel.app/api?username=manuelbth&hide_title=true&count_private=true&theme=radical)](https://github.com/manuelbth)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbth&hide_title=true&theme=radical&layout=compact)](https://github.com/manuelbth)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelbth&theme=radical)](https://github.com/manuelbth)
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api?username=manuelbth&theme=radical&height=180" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=160" />
+</p>
 
 ---
 
