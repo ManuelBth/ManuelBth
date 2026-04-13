@@ -70,19 +70,22 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 ### Cloud & DevOps
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white&height=40&radius=0)
-![Railway](https://img.shields.io/badge/Railway-000000?style=plastic&logo=railway&logoColor=white&height=30)
+![Railway](https://img.shields.io/badge/Railway-000000?style=plastic&logo=railway&logoColor=white&height=40&radius=0)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelBth&hide_title=true&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelBth&hide_title=true&show_icons=true&theme=transparent&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelbth&hide_title=true&show_icons=true&theme=radical" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelBth&theme=transparent&hide_border=true" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbth&hide_title=true&show_icons=true&theme=radical&layout=compact" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbth&theme=radical" width="600" />
 </div>
 
 ---
