@@ -102,7 +102,14 @@ _IEEE Xplore · 2025_
 
 ## Education & Certifications
 
-![Education Table](education-table.png)
+| Year | Credential | Institution |
+| --- | --- | --- |
+| 2018 | Systems & Communications Technician | Cecontec |
+| 2026 *(in progress)* | B.Eng. Electronic Engineering | Universidad del Quindío |
+| 2026 Mar | Java Junior Developer | Dev Senior & Certiprof |
+| 2026 Jun *(in progress)* | Java Backend Developer | Dev Senior & Certiprof |
+| 2026 Sep *(in progress)* | Java Full Stack Developer | Dev Senior & Certiprof |
+| 2026 Dec *(in progress)* | Java Senior Developer | Dev Senior & Certiprof |
 
 ---
 
