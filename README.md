@@ -76,17 +76,8 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=manuelbth&theme=radical&height=180" />
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160" />
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=160" />
-</p>
+| ![Stats](https://readme-stats-fast.vercel.app/api?username=manuelbth&theme=radical&height=160) | ![Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160) | ![Streak](https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=160) |
+|:---:|:---:|:---:|
 
 ---
 
@@ -110,43 +101,14 @@ _IEEE Xplore · 2025_
 
 ## Education & Certifications
 
-<table>
-  <tr style="background-color: #7C3AED; color: white;">
-    <th style="padding: 12px; border-radius: 8px 8px 0 0;">Year</th>
-    <th style="padding: 12px;">Credential</th>
-    <th style="padding: 12px;">Institution</th>
-  </tr>
-  <tr style="background-color: #1e1e1e; color: #e0e0e0;">
-    <td style="padding: 12px; border: 1px solid #333;">2018</td>
-    <td style="padding: 12px; border: 1px solid #333;">Systems & Communications Technician</td>
-    <td style="padding: 12px; border: 1px solid #333;">Cecontec</td>
-  </tr>
-  <tr style="background-color: #2d2d2d; color: #e0e0e0;">
-    <td style="padding: 12px; border: 1px solid #333;">2026 <em>(in progress)</em></td>
-    <td style="padding: 12px; border: 1px solid #333;">B.Eng. Electronic Engineering</td>
-    <td style="padding: 12px; border: 1px solid #333;">Universidad del Quindío</td>
-  </tr>
-  <tr style="background-color: #1e1e1e; color: #e0e0e0;">
-    <td style="padding: 12px; border: 1px solid #333;">2026 Mar</td>
-    <td style="padding: 12px; border: 1px solid #333;">Java Junior Developer</td>
-    <td style="padding: 12px; border: 1px solid #333;">Dev Senior & Certiprof</td>
-  </tr>
-  <tr style="background-color: #2d2d2d; color: #e0e0e0;">
-    <td style="padding: 12px; border: 1px solid #333;">2026 Jun <em>(in progress)</em></td>
-    <td style="padding: 12px; border: 1px solid #333;">Java Backend Developer</td>
-    <td style="padding: 12px; border: 1px solid #333;">Dev Senior & Certiprof</td>
-  </tr>
-  <tr style="background-color: #1e1e1e; color: #e0e0e0;">
-    <td style="padding: 12px; border: 1px solid #333;">2026 Sep <em>(in progress)</em></td>
-    <td style="padding: 12px; border: 1px solid #333;">Java Full Stack Developer</td>
-    <td style="padding: 12px; border: 1px solid #333;">Dev Senior & Certiprof</td>
-  </tr>
-  <tr style="background-color: #2d2d2d; color: #e0e0e0; border-radius: 0 0 8px 8px;">
-    <td style="padding: 12px; border: 1px solid #333; border-radius: 0 0 0 8px;">2026 Dec <em>(in progress)</em></td>
-    <td style="padding: 12px; border: 1px solid #333;">Java Senior Developer</td>
-    <td style="padding: 12px; border: 1px solid #333; border-radius: 0 0 8px 0;">Dev Senior & Certiprof</td>
-  </tr>
-</table>
+| Year | Credential | Institution |
+| --- | --- | --- |
+| 2018 | Systems & Communications Technician | Cecontec |
+| 2026 *(in progress)* | B.Eng. Electronic Engineering | Universidad del Quindío |
+| 2026 Mar | Java Junior Developer | Dev Senior & Certiprof |
+| 2026 Jun *(in progress)* | Java Backend Developer | Dev Senior & Certiprof |
+| 2026 Sep *(in progress)* | Java Full Stack Developer | Dev Senior & Certiprof |
+| 2026 Dec *(in progress)* | Java Senior Developer | Dev Senior & Certiprof |
 
 ---
 
