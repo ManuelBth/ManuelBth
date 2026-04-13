@@ -76,15 +76,9 @@ Currently advancing expertise in cloud infrastructure and backend architecture, 
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
-  <div style="text-align: center;">
-    <img src="https://readme-stats-fast.vercel.app/api?username=manuelbth&theme=radical&height=150" /><br/>
-    <img src="https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=150" />
-  </div>
-  <div style="text-align: center;">
-    <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160" />
-  </div>
-</div>
+| Languages | Streak |
+|:---:|:---:|
+| ![Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=manuelbth&theme=radical&height=160) | ![Streak](https://readme-stats-fast.vercel.app/api/streak/?username=manuelbth&theme=radical&height=160) |
 
 ---
 
