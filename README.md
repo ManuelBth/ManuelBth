@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/jmanuelbth%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmanuelbth@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-betancourth-garc%C3%ADa-a47739391/)
-[![IEEE](https://img.shields.io/badge/IEEE%20Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![IEEE](https://img.shields.io/badge/IEEE%20Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&searchWithin=%22First%20Name%22:Juan%20Manuel&searchWithin=%22Last%20Name%22:Betancourth%20Garc%C3%ADa)
 
 </div>
 
